@@ -1,4 +1,4 @@
 <?php
-header("Location: http://www.scubadivingjersey.com");
+header("Location: https://timeforchange.org/radiation-wavelength-and-greenhouse-effect");
 die();
 ?>
